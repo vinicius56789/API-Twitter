@@ -24,7 +24,7 @@ Projeto simples para aprender como funciona o consumo de api.
 
 Todos os campos com keys e tokens foram retirados. Caso queira testar, é preciso cadastrar-se no [Twitter Developer](https://developer.twitter.com/en). Além disso, os campos de busca e números de tweets máximo também são configuráveis. Tome cuidado com o número de requisições em pouco tempo, o twitter pode acabar bloqueando seus app's, importante manter o sleep() para que isso não aconteça.
 
-### Até a próxima :wolf:
+### :wolf:
 
 
 
